@@ -2,7 +2,7 @@
 - 👀 I’m interested in web devlopement and data science
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me- paragkshirasag101@gmail.com
+- 📫 How to reach me- paragkshirasagar101@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
